@@ -1,4 +1,7 @@
-let playerOne: Sprite = null
+scene.setBackgroundColor(7)
+let playerOne = sprites.create(assets.image`ballSoccer`, SpriteKind.Player)
 let screenWidth = scene.screenWidth()
 let screenHeight = scene.screenHeight()
-tiles.placeOnTile(playerOne, tiles.getTileLocation(randint(0, screenWidth), randint(0, screenHeight)))
+forever(function () {
+    controller.moveSprite(playerOne)
+})

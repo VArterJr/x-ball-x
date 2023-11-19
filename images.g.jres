@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAP///w8AAAD/ERHx/w8A8BEREfH/8QDwERER8f/xAB/x/xEREREPH/H/EREREQ8f8f8RERERDx8REREREREPHxERERH/Hw8fEREREf8fD///ERER/x8P8P8RERER8QDw/xHx/xHxAAD/EfH/8Q8AAAD///8PAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ballSoccer"
+    },
+    "image2": {
+        "data": "hwQQABAAAAD//////////w8AAAAAAADwDwAAAAAAAPAPAAAAAAAA8A8AAAAAAADwDwAAAAAAAPAPAAAAAAAA8A8AAAAAAADwDwAAAAAAAPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "goal"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
